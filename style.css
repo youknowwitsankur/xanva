@@ -53,7 +53,9 @@ header{
 }
 .colan img{
     max-width: 1500px;
-    padding-left: 300px;
+    padding-right:100px;
+    padding-bottom:50px;
+    padding-left:100px;
 }
 .col-1{
     margin: 25px 0;
@@ -83,4 +85,5 @@ footer{
     padding: 25px;}
 
 footer img{width: 30px;height: 30px;margin-bottom:10px;margin-right: 10px;}
+
 
